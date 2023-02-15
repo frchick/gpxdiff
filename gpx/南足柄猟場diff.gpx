@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <wpt lat="35.292759" lon="139.046760" iswarning="0">
+  <ele>780.000000</ele>
+  <time>2023-01-10T02:08:09Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.292920" lon="139.043418" iswarning="0">
+  <ele>776.000000</ele>
+  <time>2022-07-24T07:49:37Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.292995" lon="139.046280" iswarning="0">
+  <ele>779.000000</ele>
+  <time>2023-01-08T22:25:07Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.293137" lon="139.043388" iswarning="0">
+  <ele>767.000000</ele>
+  <time>2022-11-20T23:50:15Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.300141" lon="139.054127" iswarning="0">
+  <ele>570.000000</ele>
+  <time>2022-11-20T23:24:57Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.305300" lon="139.060464" iswarning="0">
+  <ele>496.000000</ele>
+  <time>2022-11-20T23:24:36Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.313354" lon="139.067199" iswarning="0">
+  <ele>350.000000</ele>
+  <time>2022-11-20T23:22:39Z</time>
+  <name>-remove-</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.293165" lon="139.046424" iswarning="0">
+  <ele>774.000000</ele>
+  <time>2023-02-13T04:03:26Z</time>
+  <name>🦌new 6</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.292928" lon="139.044963" iswarning="0">
+  <ele>765.000000</ele>
+  <time>2023-02-13T04:03:21Z</time>
+  <name>🦌エーモン</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.305619" lon="139.064905" iswarning="0">
+  <ele>499.000000</ele>
+  <time>2023-02-13T04:03:16Z</time>
+  <name>🦌オデコ</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.313569" lon="139.066569" iswarning="0">
+  <ele>358.000000</ele>
+  <time>2023-02-13T04:03:11Z</time>
+  <name>🦌ホンダメ尾根</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.316564" lon="139.060834" iswarning="0">
+  <ele>378.000000</ele>
+  <time>2023-02-04T05:59:24Z</time>
+  <name>🦌老練</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.293324" lon="139.043758" iswarning="0">
+  <ele>766.000000</ele>
+  <time>2023-01-30T01:39:06Z</time>
+  <name>中尾沢駐車場</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.292424" lon="139.042382" iswarning="0">
+  <ele>795.000000</ele>
+  <time>2023-01-29T04:28:59Z</time>
+  <name>🦌中尾沢駐車場先</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.292920" lon="139.043418" iswarning="0">
+  <ele>776.000000</ele>
+  <time>2023-01-29T04:27:47Z</time>
+  <name>🦌中尾沢入口上</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.292433" lon="139.046335" iswarning="0">
+  <ele>791.000000</ele>
+  <time>2023-02-13T04:01:22Z</time>
+  <name>🦌パンク上</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.299755" lon="139.054331" iswarning="0">
+  <ele>590.000000</ele>
+  <time>2023-01-22T06:17:55Z</time>
+  <name>🦌伐採</name>
+  <cmt></cmt>
+ </wpt>
+ <wpt lat="35.304789" lon="139.060598" iswarning="0">
+  <ele>516.000000</ele>
+  <time>2023-01-26T00:01:30Z</time>
+  <name>🦌キーパー</name>
+  <cmt></cmt>
+ </wpt>
+</gpx>
